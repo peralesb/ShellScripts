@@ -2,7 +2,7 @@
 #script file: watchdogMovistarPort.sh
 
 
-PROCESS="nc 10.225.244.79 7881"
+PROCESS="nc <ip> 7881"
 LOG_FILE=/var/log/watchdogMovistar.log
 
 
