@@ -1,0 +1,18 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:tem="http://tempuri.org/">
+   <soapenv:Header>
+      <tem:UserCredential>
+         <tem:UserName>0536usu0001</tem:UserName>
+         <tem:Password></tem:Password>
+         <tem:Token></tem:Token>
+         <tem:MacAddress>123456789012</tem:MacAddress>
+         <tem:Comercio>536</tem:Comercio>
+      </tem:UserCredential>
+   </soapenv:Header>
+   <soapenv:Body>
+      <tem:Registro>
+         <tem:Comercio>536</tem:Comercio>
+         <tem:Sucursal>1</tem:Sucursal>
+         <tem:MacAddress>123456789012</tem:MacAddress>
+      </tem:Registro>
+   </soapenv:Body>
+</soapenv:Envelope>
