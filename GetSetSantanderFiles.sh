@@ -1,8 +1,8 @@
 #!/bin/sh
 
-export SSHPASS=Z8yV5WvNwWLOqLhzmtAP2a3XTnWFnztf
-blmFTPUser=kineto_santander
-santanderFTPUser=e2660569
+export SSHPASS=
+blmFTPUser=
+santanderFTPUser=
 
 workPath=/home/ubuntu/santander/scripts
 cd $workPath
